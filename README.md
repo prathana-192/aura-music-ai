@@ -41,12 +41,12 @@ Where:
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/YOUR_USERNAME/aura-music-ai.git](https://github.com/YOUR_USERNAME/aura-music-ai.git)
-cd aura-music-ai
+cd aura-music-ai 
 
-### Install Dependencies
+Install Dependencies
 pip install -r requirements.txt
 
-###  Project Structure
+Project Structure
 aura-music-ai/
 ├── data/
 │   └── songs_sampled.csv    # Curated dataset (9,000+ tracks)
@@ -58,7 +58,7 @@ aura-music-ai/
 ├── requirements.txt         # Project dependencies
 └── README.md                # Project Documentation
 
-### Performance Benchmarks
+Performance Benchmarks
 In simulated environments with 1,000 interaction steps, Aura AI demonstrated:
 
 70% Accuracy in predicting user likes (compared to ~50% for random baselines).
