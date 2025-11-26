@@ -40,7 +40,7 @@ Where:
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/aura-music-ai.git](https://github.com/YOUR_USERNAME/aura-music-ai.git)
+git clone [https://github.com/prathana-192/aura-music-ai.git](https://github.com/prathana-192/aura-music-ai.git)
 cd aura-music-ai 
 
 Install Dependencies
