@@ -49,14 +49,14 @@ pip install -r requirements.txt
 Project Structure
 aura-music-ai/
 ├── data/
-│   └── songs_sampled.csv    # Curated dataset (9,000+ tracks)
+│   └── songs_sampled.csv    
 ├── .streamlit/
-│   └── config.toml          # Dark Mode & UI Theme settings
-├── app.py                   # Main Application (Frontend + Logic)
-├── recommender.py           # LinUCB Class (The "Brain")
-├── comparison.py            # Simulation script for learning curves
-├── requirements.txt         # Project dependencies
-└── README.md                # Project Documentation
+│   └── config.toml         
+├── app.py                  
+├── recommender.py           
+├── comparison.py            
+├── requirements.txt        
+└── README.md                
 
 Performance Benchmarks
 In simulated environments with 1,000 interaction steps, Aura AI demonstrated:
